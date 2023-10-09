@@ -4,5 +4,10 @@ Key matrix:
  3   5   
  
 
-Plaintext:
-notonlyistheuniversestrangerthanwethinkitisstrangerthanwecanthinkwernerheisenbergx
+Plaintext: 
+notonlyistheuniversestrangerthanwethinkitisstrangerthanwecanthinkwernerheisenber
+gx
+
+Ciphertext: 
+efqxsqciitepovwzytawitizyrytooaniiooqlassteocmancmgqovktqwanooqlekytqhkioaawesyt
+ad
